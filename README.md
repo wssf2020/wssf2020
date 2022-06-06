@@ -1,3 +1,2 @@
-# -BluefishV(wssf2020)-
-### Bilibili: BluefishV
+# -wssf2020-
 ### Email: 2719149077@qq.com
